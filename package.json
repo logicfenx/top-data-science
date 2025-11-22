@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/top-data-science",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a top-data-science",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/top-data-science.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://bitcu.co/en/top-data-science-courses-2025/"
+    },
+    "homepage": "https://bitcu.co/en/top-data-science-courses-2025/"
+}
